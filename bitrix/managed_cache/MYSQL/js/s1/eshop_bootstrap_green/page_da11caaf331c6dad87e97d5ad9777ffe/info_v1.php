@@ -1,0 +1,1 @@
+<?php $filesInfo = array("/bitrix/components/bitrix/advertising.banner/templates/bootstrap/bxcarousel.js" => "15732835786812","/bitrix/components/bitrix/catalog.section/templates/.default/script.js" => "15732838465563","/bitrix/components/bitrix/catalog.item/templates/.default/script.js" => "157328384440913",); ?>
